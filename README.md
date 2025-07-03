@@ -38,15 +38,6 @@ Here are some ideas to get you started:
 
 ---
 
-<h2 align="center">🌐 About Me</h2>
-
-<p align="center">
-🚀 I’m a full-stack developer with a passion for building futuristic, creative, and useful digital experiences.  
-🎓 Studying @ <strong>SLIIT</strong> | ☕ Fueled by caffeine & innovation  
-🎮 Gamer by night. Developer by day.  
-🧠 Always learning, always building.
-</p>
-
 ---
 
 <h2 align="center">💬 Ask Me About</h2>
