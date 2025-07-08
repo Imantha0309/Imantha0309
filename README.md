@@ -6,9 +6,6 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmR4MWh1ZzM4Z2xiZjBybXBrb2xtZnp5bTE0YzllczA1ZmEwejRnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k81NasbqkKA5HSyJxN/giphy.gif" width="100%" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Welcome+to+Neo-Kandyan+CyberLux+👾;Imantha+Ushan+-+Full+Stack+Developer;Designing+Sri+Lankan+Cyber+Realms+🧿" />
-</h1>
 
 ---
 
