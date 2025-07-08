@@ -1,29 +1,14 @@
-## Hi , my name is Imantha 
+<h1 align="center">
+  🚀 Imantha Ushan
+</h1>
 
-<!--
-**Imantha0309/Imantha0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...<!-- 🌌 CYBERPUNK README for IMANTHA USHAN -->
-
-<!-- 🚀 TOP ANIMATED HEADER -->
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmR4MWh1ZzM4Z2xiZjBybXBrb2xtZnp5bTE0YzllczA1ZmEwejRnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k81NasbqkKA5HSyJxN/giphy.gif" width="100%" />
 </p>
 
 <h1 align="center">
-  <svg width="100%" height="60">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          font-family="Orbitron, sans-serif" font-size="32" fill="#00FFFF">
-      <tspan style="animation: glitch 1s infinite;">IMANTHA USHAN</tspan>
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Welcome+to+Neo-Kandyan+CyberLux+👾;Imantha+Ushan+-+Full+Stack+Developer;Designing+Sri+Lankan+Cyber+Realms+🧿" />
 </h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Full-Stack+Dev+from+SLIIT;Creating+Futuristic+Web+Apps;Code+%7C+Design+%7C+Break+%7C+Repeat" />
-</p>
 
 ---
 
@@ -35,8 +20,6 @@ Here are some ideas to get you started:
 🎮 Gamer heart. Designer eye. Developer soul.  
 🧠 Always shipping. Always learning.
 </p>
-
----
 
 ---
 
@@ -52,11 +35,83 @@ Here are some ideas to get you started:
 
 ---
 
-<h2 align="center">🚀 Tech Stack</h2>
+<h2 align="center">🧰 Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,figma,postman&perline=8" />
 </p>
+
+---
+
+<h2 align="center">🚧 Featured Projects</h2>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+
+<!-- Fitness Project -->
+🔹 <strong>Online Fitness Training Platform</strong>  
+<p>Personalized workouts, video tutorials & progress tracking. Designed for accessibility & motivation.</p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+---
+
+<!-- Laundry App -->
+🔹 <strong>Online Laundry Web App</strong>  
+<p>Order, schedule pickup/delivery & make payments via a clean dashboard. All-in-one laundry solution.</p>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+---
+
+<!-- Kids Learning -->
+🔹 <strong>Kids Learning Platform</strong>  
+<p>Interactive web app with educational games, quizzes & stories. Designed for ages 4–10 with fun visuals.</p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+---
+
+<!-- Event System -->
+🔹 <strong>Event Management System</strong>  
+<p>Handles event planning, ticketing, and real-time scheduling. For conferences, concerts, and corporate events.</p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+---
+
+<!-- Yoga Coaching -->
+🔹 <strong>Online Yoga Coaching</strong>  
+<p>Zen-inspired web app for streaming sessions, meditation & instructor profiles. Relaxing yet functional UI.</p>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+---
+
+<!-- Tuition Platform -->
+🔹 <strong>Educational Tuition Platform</strong>  
+<p>Connects tutors and students. Features online classrooms, report cards, materials and secure login.</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+---
+
+<!-- Gaming -->
+🔹 <strong>Gaming & Gambling Web Platform</strong>  
+<p>Engaging gaming experience with token-based rewards & leaderboard system. Built with web security in mind.</p>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+
+</div>
+
 
 ---
 
@@ -80,15 +135,11 @@ Here are some ideas to get you started:
 
 ---
 
-<h2 align="center">🎨 Design Meets Code</h2>
+<h2 align="center">💡 Philosophy</h2>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXI2NGEwaTJ4aDgwejhwa2hzMGRjZHl0cjl1aTE4NmFuM3gwMDMxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13ZOPnlbZJQd8c/giphy.gif" width="300" />
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Creating%20Tomorrow's%20Web%20Today-00FFAA?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
-
----
-
-<h2 align="center">💡 Philosophy</h2>
 
 > <p align="center">
   <strong>“Build like a wizard. Debug like a ninja. Design like a rebel.”</strong>  
